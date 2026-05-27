@@ -1,0 +1,10 @@
+{
+  "name": "VETRI TN",
+  "description": "AI-Powered Crowdsourced Civic Issue Reporting & Resolution System for Tamil Nadu",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
